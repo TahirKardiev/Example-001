@@ -1,0 +1,16 @@
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\bin\Debug\net6.0\Examle007_Maga.exe
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\bin\Debug\net6.0\Examle007_Maga.deps.json
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\bin\Debug\net6.0\Examle007_Maga.runtimeconfig.json
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\bin\Debug\net6.0\Examle007_Maga.dll
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\bin\Debug\net6.0\ref\Examle007_Maga.dll
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\bin\Debug\net6.0\Examle007_Maga.pdb
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\obj\Debug\net6.0\Examle007_Maga.GlobalUsings.g.cs
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\obj\Debug\net6.0\Examle007_Maga.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\obj\Debug\net6.0\Examle007_Maga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\obj\Debug\net6.0\Examle007_Maga.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\obj\Debug\net6.0\Examle007_Maga.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\obj\Debug\net6.0\Examle007_Maga.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\obj\Debug\net6.0\Examle007_Maga.dll
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\obj\Debug\net6.0\ref\Examle007_Maga.dll
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\obj\Debug\net6.0\Examle007_Maga.pdb
+C:\Users\Татьяна\Desktop\examples\Examle007_Maga\obj\Debug\net6.0\Examle007_Maga.genruntimeconfig.cache
