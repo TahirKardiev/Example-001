@@ -1,0 +1,16 @@
+C:\Users\Татьяна\Desktop\examples\Example008_Array\bin\Debug\net6.0\Example008_Array.exe
+C:\Users\Татьяна\Desktop\examples\Example008_Array\bin\Debug\net6.0\Example008_Array.deps.json
+C:\Users\Татьяна\Desktop\examples\Example008_Array\bin\Debug\net6.0\Example008_Array.runtimeconfig.json
+C:\Users\Татьяна\Desktop\examples\Example008_Array\bin\Debug\net6.0\Example008_Array.dll
+C:\Users\Татьяна\Desktop\examples\Example008_Array\bin\Debug\net6.0\ref\Example008_Array.dll
+C:\Users\Татьяна\Desktop\examples\Example008_Array\bin\Debug\net6.0\Example008_Array.pdb
+C:\Users\Татьяна\Desktop\examples\Example008_Array\obj\Debug\net6.0\Example008_Array.GlobalUsings.g.cs
+C:\Users\Татьяна\Desktop\examples\Example008_Array\obj\Debug\net6.0\Example008_Array.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\examples\Example008_Array\obj\Debug\net6.0\Example008_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\examples\Example008_Array\obj\Debug\net6.0\Example008_Array.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\examples\Example008_Array\obj\Debug\net6.0\Example008_Array.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\examples\Example008_Array\obj\Debug\net6.0\Example008_Array.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\examples\Example008_Array\obj\Debug\net6.0\Example008_Array.dll
+C:\Users\Татьяна\Desktop\examples\Example008_Array\obj\Debug\net6.0\ref\Example008_Array.dll
+C:\Users\Татьяна\Desktop\examples\Example008_Array\obj\Debug\net6.0\Example008_Array.pdb
+C:\Users\Татьяна\Desktop\examples\Example008_Array\obj\Debug\net6.0\Example008_Array.genruntimeconfig.cache
