@@ -1,0 +1,16 @@
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\obj\Debug\net6.0\Example010_Array++.GlobalUsings.g.cs
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\obj\Debug\net6.0\Example010_Array++.csproj.AssemblyReference.cache
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\obj\Debug\net6.0\Example010_Array++.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\obj\Debug\net6.0\Example010_Array++.AssemblyInfoInputs.cache
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\obj\Debug\net6.0\Example010_Array++.AssemblyInfo.cs
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\obj\Debug\net6.0\Example010_Array++.csproj.CoreCompileInputs.cache
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\bin\Debug\net6.0\Example010_Array++.exe
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\bin\Debug\net6.0\Example010_Array++.deps.json
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\bin\Debug\net6.0\Example010_Array++.runtimeconfig.json
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\bin\Debug\net6.0\Example010_Array++.dll
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\bin\Debug\net6.0\ref\Example010_Array++.dll
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\bin\Debug\net6.0\Example010_Array++.pdb
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\obj\Debug\net6.0\Example010_Array++.dll
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\obj\Debug\net6.0\ref\Example010_Array++.dll
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\obj\Debug\net6.0\Example010_Array++.pdb
+C:\Users\Татьяна\Desktop\examples\Example010_Array++\obj\Debug\net6.0\Example010_Array++.genruntimeconfig.cache
