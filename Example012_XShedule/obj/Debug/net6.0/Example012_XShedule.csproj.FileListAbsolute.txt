@@ -1,0 +1,15 @@
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\obj\Debug\net6.0\Example012_XShedule.csproj.AssemblyReference.cache
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\obj\Debug\net6.0\Example012_XShedule.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\obj\Debug\net6.0\Example012_XShedule.AssemblyInfoInputs.cache
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\obj\Debug\net6.0\Example012_XShedule.AssemblyInfo.cs
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\obj\Debug\net6.0\Example012_XShedule.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\bin\Debug\net6.0\Example012_XShedule.exe
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\bin\Debug\net6.0\Example012_XShedule.deps.json
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\bin\Debug\net6.0\Example012_XShedule.runtimeconfig.json
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\bin\Debug\net6.0\Example012_XShedule.dll
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\bin\Debug\net6.0\Example012_XShedule.pdb
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\obj\Debug\net6.0\Example012_XShedule.dll
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\obj\Debug\net6.0\refint\Example012_XShedule.dll
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\obj\Debug\net6.0\Example012_XShedule.pdb
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\obj\Debug\net6.0\Example012_XShedule.genruntimeconfig.cache
+C:\Users\ANDREY\Desktop\Code\Example012_XShedule\obj\Debug\net6.0\ref\Example012_XShedule.dll
