@@ -1,0 +1,15 @@
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\bin\Debug\net6.0\Example013_Sortby.exe
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\bin\Debug\net6.0\Example013_Sortby.deps.json
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\bin\Debug\net6.0\Example013_Sortby.runtimeconfig.json
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\bin\Debug\net6.0\Example013_Sortby.dll
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\bin\Debug\net6.0\Example013_Sortby.pdb
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\obj\Debug\net6.0\Example013_Sortby.csproj.AssemblyReference.cache
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\obj\Debug\net6.0\Example013_Sortby.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\obj\Debug\net6.0\Example013_Sortby.AssemblyInfoInputs.cache
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\obj\Debug\net6.0\Example013_Sortby.AssemblyInfo.cs
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\obj\Debug\net6.0\Example013_Sortby.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\obj\Debug\net6.0\Example013_Sortby.dll
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\obj\Debug\net6.0\refint\Example013_Sortby.dll
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\obj\Debug\net6.0\Example013_Sortby.pdb
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\obj\Debug\net6.0\Example013_Sortby.genruntimeconfig.cache
+C:\Users\ANDREY\Desktop\Code\Example-001\Example013_Sortby\obj\Debug\net6.0\ref\Example013_Sortby.dll
