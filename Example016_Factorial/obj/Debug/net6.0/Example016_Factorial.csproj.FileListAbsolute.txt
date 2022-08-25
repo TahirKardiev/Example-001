@@ -1,0 +1,15 @@
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\bin\Debug\net6.0\Example016_Factorial.exe
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\bin\Debug\net6.0\Example016_Factorial.deps.json
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\bin\Debug\net6.0\Example016_Factorial.runtimeconfig.json
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\bin\Debug\net6.0\Example016_Factorial.dll
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\bin\Debug\net6.0\Example016_Factorial.pdb
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\obj\Debug\net6.0\Example016_Factorial.csproj.AssemblyReference.cache
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\obj\Debug\net6.0\Example016_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\obj\Debug\net6.0\Example016_Factorial.AssemblyInfoInputs.cache
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\obj\Debug\net6.0\Example016_Factorial.AssemblyInfo.cs
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\obj\Debug\net6.0\Example016_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\obj\Debug\net6.0\Example016_Factorial.dll
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\obj\Debug\net6.0\refint\Example016_Factorial.dll
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\obj\Debug\net6.0\Example016_Factorial.pdb
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\obj\Debug\net6.0\Example016_Factorial.genruntimeconfig.cache
+C:\Users\ANDREY\Desktop\Code\Example-001\Example016_Factorial\obj\Debug\net6.0\ref\Example016_Factorial.dll
