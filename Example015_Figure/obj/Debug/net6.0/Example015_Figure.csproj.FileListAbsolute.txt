@@ -1,0 +1,15 @@
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\obj\Debug\net6.0\Example015_Figure.csproj.AssemblyReference.cache
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\obj\Debug\net6.0\Example015_Figure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\obj\Debug\net6.0\Example015_Figure.AssemblyInfoInputs.cache
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\obj\Debug\net6.0\Example015_Figure.AssemblyInfo.cs
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\obj\Debug\net6.0\Example015_Figure.csproj.CoreCompileInputs.cache
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\bin\Debug\net6.0\Example015_Figure.exe
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\bin\Debug\net6.0\Example015_Figure.deps.json
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\bin\Debug\net6.0\Example015_Figure.runtimeconfig.json
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\bin\Debug\net6.0\Example015_Figure.dll
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\bin\Debug\net6.0\Example015_Figure.pdb
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\obj\Debug\net6.0\Example015_Figure.dll
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\obj\Debug\net6.0\refint\Example015_Figure.dll
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\obj\Debug\net6.0\Example015_Figure.pdb
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\obj\Debug\net6.0\Example015_Figure.genruntimeconfig.cache
+C:\Users\ANDREY\Desktop\Code\Example-001\Example015_Figure\obj\Debug\net6.0\ref\Example015_Figure.dll
